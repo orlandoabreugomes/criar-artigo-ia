@@ -1,8 +1,8 @@
-# Como Criar um Ebook utilizando IA
+# Como Criar um artigo técnico utilizando IA
 
 ℹ️ Nota: Este é o repositório desenvolvido durante o curso “Criando Artigos Técnicos com o ChatGPT e Lexica.art” ministrado por [Felipe Aguiar](https://www.linkedin.com/in/felipeaguiar-exe/) na [DIO](https://web.dio.me).
 
-Projeto com o objetivo de gerar um ebook digital com as facilidades de ferramentas de IA. Os prompts utilzados seguem abaixo.
+O projeto tem como objetivo de gerar um artigo técnico com as facilidades de ferramentas de IA. Os prompts utilzados seguem abaixo.
 
 📒[Clique aqui para ler o Ebook produzido.](https://digitalinnovation.one/artigos/explorando-a-biblioteca-re-do-python-expressoes-regulares-desmistificadas)
 
@@ -18,13 +18,13 @@ Projeto com o objetivo de gerar um ebook digital com as facilidades de ferrament
 
 |Ação      | Prompt          |
 |-----------------|--------------------|
-| Título | Crie um título de um Ebook sobre o tema Computação Quântica que seja para um leigo no assunto que possua algum conhecimento de informática e muito pouco de Física, me liste 5 variações de títulos. |
-| Conteúdo   |  Faça um texto para Ebook com foco em Computação Quântica que seja para um leigo no assunto que possua algum conhecimento de informática e muito pouco de Física{REGRAS} Explique sempre de uma maneira simples; Deixe o texto enxuto; Sempre traga exemplos de código em contextos reais; Sempre deixe um título sugestivo por tópico.   |
+| Título | Crie 10 headlines para nomes de artigos sobre o assunto Python – biblioteca de expressões regulares. |
+| Conteúdo   |  Comporte-se como um escritor de artigos tech front-end e escreva o artigo atendendo as regras. {Regras} No máximo 5 linhas por blocos de explicação; Explique de uma maneira informal, como se eu fosse uma pré-adolescente de 12 anos; Os blocos que serão criados: O que é a biblioteca de expressões regulares; Como fazer um programa com re e um exemplo simples com explicação desse exemplo; Contextualize uma situação mais complexa para utilizar essa biblioteca com um exemplo; Contextualize uma situação na qual não vale a pena utilizar re; Faça um call to action para as minhas redes sociais; Coloque 3 hashtags que façam sentido.  |
 
 ### Craiyon:
 |Ação      | Prompt          |
 |-----------------|--------------------|
-| Imagem da capa | Generate a detailed illustration of two quantum qubits in a lab setting |
+| Imagem da capa | Code demonstrating Python's powerful text processing with a regular expression example. Utilizei as imagens sugeridas (Inspirations).
 
 ## ✨ Material
 💡Prompts utilizados
