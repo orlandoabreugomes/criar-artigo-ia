@@ -4,7 +4,7 @@
 
 O projeto tem como objetivo de gerar um artigo técnico com as facilidades de ferramentas de IA. Os prompts utilzados seguem abaixo.
 
-📒[Clique aqui para ler o Ebook produzido.](https://digitalinnovation.one/artigos/explorando-a-biblioteca-re-do-python-expressoes-regulares-desmistificadas)
+📒[Clique aqui para ler o artigo produzido.](https://digitalinnovation.one/artigos/explorando-a-biblioteca-re-do-python-expressoes-regulares-desmistificadas)
 
 ## 🖥️ Tecnologias utilizadas no Projeto:
 
